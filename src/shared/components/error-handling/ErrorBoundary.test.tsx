@@ -4,7 +4,7 @@ import { render } from "@testing-library/react";
 import withErrorBoundary, { ErrorBoundary } from "./ErrorBoundary";
 // import { createApplicationInsights } from "../../utils/appInsights";
 
-jest.mock("@microsoft/applicationinsights-web");
+// jest.mock("@microsoft/applicationinsights-web");
 
 const ErrorComponent = (): ReactElement => {
   throw new Error("ErrorBoundary error test");
