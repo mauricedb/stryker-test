@@ -5,8 +5,6 @@ module.exports = function(config) {
     mutate: [
       "src/**/*.ts?(x)",
 
-      "!src/shared/components/icon/**/*.ts?(x)",
-
       "!src/shared/utils/**/*.ts?(x)",
 
       "!src/*.ts?(x)",
