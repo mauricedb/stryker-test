@@ -6,10 +6,10 @@
     "@testing-library/jest-dom": "^4.2.0",
     "@testing-library/react": "^9.3.0",
     "@types/classnames": "^2.2.9",
-    "@types/jest": "24.0.20",
-    "@types/node": "12.11.7",
+    "@types/jest": "24.0.23",
+    "@types/node": "12.12.9",
     "@types/react": "16.9.11",
-    "@types/react-dom": "16.9.3",
+    "@types/react-dom": "16.9.4",
     "@types/yup": "^0.26.24",
     "classnames": "^2.2.6",
     "formik": "^2.0.3",
@@ -17,7 +17,7 @@
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0",
-    "typescript": "3.6.4",
+    "typescript": "3.7.2",
     "yup": "^0.27.0"
   },
   "scripts": {
