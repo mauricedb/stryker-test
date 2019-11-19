@@ -4,11 +4,7 @@ module.exports = function(config) {
   config.set({
     mutate: [
       "src/**/*.ts?(x)",
-
-      "!src/shared/utils/**/*.ts?(x)",
-
       "!src/*.ts?(x)",
-
       "!src/**/*@(.test|.spec|Spec).ts?(x)"
     ],
     mutator: "typescript",
